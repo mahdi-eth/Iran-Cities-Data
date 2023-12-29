@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <message>فهرست استان های ایران</message>
+  <provinces>
+    <id>1</id>
+    <name>آذربایجان شرقی</name>
+  </provinces>
+  <provinces>
+    <id>2</id>
+    <name>آذربایجان غربی</name>
+  </provinces>
+  <provinces>
+    <id>3</id>
+    <name>اردبیل</name>
+  </provinces>
+  <provinces>
+    <id>4</id>
+    <name>اصفهان</name>
+  </provinces>
+  <provinces>
+    <id>5</id>
+    <name>ایلام</name>
+  </provinces>
+  <provinces>
+    <id>6</id>
+    <name>بوشهر</name>
+  </provinces>
+  <provinces>
+    <id>7</id>
+    <name>تهران</name>
+  </provinces>
+  <provinces>
+    <id>8</id>
+    <name>چهارمحال و بختیاری</name>
+  </provinces>
+  <provinces>
+    <id>9</id>
+    <name>خراسان جنوبی</name>
+  </provinces>
+  <provinces>
+    <id>10</id>
+    <name>خراسان رضوی</name>
+  </provinces>
+  <provinces>
+    <id>11</id>
+    <name>خراسان شمالی</name>
+  </provinces>
+  <provinces>
+    <id>12</id>
+    <name>خوزستان</name>
+  </provinces>
+  <provinces>
+    <id>13</id>
+    <name>زنجان</name>
+  </provinces>
+  <provinces>
+    <id>14</id>
+    <name>سمنان</name>
+  </provinces>
+  <provinces>
+    <id>15</id>
+    <name>سیستان و بلوچستان</name>
+  </provinces>
+  <provinces>
+    <id>16</id>
+    <name>فارس</name>
+  </provinces>
+  <provinces>
+    <id>17</id>
+    <name>قزوین</name>
+  </provinces>
+  <provinces>
+    <id>18</id>
+    <name>قم</name>
+  </provinces>
+  <provinces>
+    <id>19</id>
+    <name>البرز</name>
+  </provinces>
+  <provinces>
+    <id>20</id>
+    <name>کردستان</name>
+  </provinces>
+  <provinces>
+    <id>21</id>
+    <name>کرمان</name>
+  </provinces>
+  <provinces>
+    <id>22</id>
+    <name>کرمانشاه</name>
+  </provinces>
+  <provinces>
+    <id>23</id>
+    <name>کهگیلویه و بویراحمد</name>
+  </provinces>
+  <provinces>
+    <id>24</id>
+    <name>گلستان</name>
+  </provinces>
+  <provinces>
+    <id>25</id>
+    <name>لرستان</name>
+  </provinces>
+  <provinces>
+    <id>26</id>
+    <name>گیلان</name>
+  </provinces>
+  <provinces>
+    <id>27</id>
+    <name>مازندران</name>
+  </provinces>
+  <provinces>
+    <id>28</id>
+    <name>مرکزی</name>
+  </provinces>
+  <provinces>
+    <id>29</id>
+    <name>هرمزگان</name>
+  </provinces>
+  <provinces>
+    <id>30</id>
+    <name>همدان</name>
+  </provinces>
+  <provinces>
+    <id>31</id>
+    <name>یزد</name>
+  </provinces>
+</root>
